@@ -1,2 +1,2 @@
 # Awesome Go resources
-Curated list of awesome Go resources on web
+Curated list of awesome [Go](https://golang.org/) resources on web
