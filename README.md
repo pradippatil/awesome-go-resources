@@ -3,8 +3,7 @@ Curated list of awesome [Go](https://golang.org/) resources on web (in random or
 
 ### Getting started tutorials
   * [A Tour of Go](https://tour.golang.org/)
-  * [Writing, building, installing, and testing Go code](https://www.youtube.com/watch?v=XCsL89YtqCs)
-  * [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=XCsL89YtqCs)
+  * [Writing, building, installing, and testing Go code](https://www.youtube.com/watch?v=XCsL89YtqCs) :movie_camera:
   * [Effective GO](https://golang.org/doc/effective_go.html)
   * [Go by example](https://gobyexample.com/)
 
