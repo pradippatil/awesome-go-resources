@@ -23,4 +23,5 @@ Curated list of awesome [Go](https://golang.org/) resources on web (in random or
 ### Miscellaneous 
   * [Stackoverflow GO documentation](http://stackoverflow.com/documentation/go)
   * [Less is exponentially more](https://commandcenter.blogspot.it/2012/06/less-is-exponentially-more.html) by Rob Pike (_Jun 25, 2012_)
+  * [Gotchas and common mistakes in GO](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 
