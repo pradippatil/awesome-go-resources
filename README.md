@@ -19,6 +19,7 @@ Curated list of awesome [Go](https://golang.org/) resources on web (in random or
 ### Books
   * [Go Bootcamp](http://www.golangbootcamp.com/book/) by Matt Aimonetti
   * [Introduction to Go](https://github.com/miekg/gobook) by Miek Gieben
+  * [Build web applications with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details) by Astaxie
 
 ### Miscellaneous 
   * [Stackoverflow GO documentation](http://stackoverflow.com/documentation/go)
