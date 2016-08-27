@@ -16,10 +16,21 @@ Curated list of awesome [Go](https://golang.org/) resources on web (in random or
 ### Testing
   * [5 simple tips and tricks for writing unit tests](https://medium.com/@matryer/5-simple-tips-and-tricks-for-writing-unit-tests-in-golang-619653f90742#.vk3vujyh4) by Mat Ryer (_Apr 30, 2015_)
 
+### Web development
+  * [Build web applications with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details) by Astaxie
+  * [Go Web Applications](https://www.gitbook.com/book/waimengmoan/go-applications/details)
+  * [Build web server in Go](http://thenewstack.io/building-a-web-server-in-go/)
+  * [Request handling in Go](http://www.alexedwards.net/blog/a-recap-of-request-handling)
+  * [HTTPS and Go](http://www.kaihag.com/https-and-go/)
+  * [Go's http package by example](https://cryptic.io/go-http/)
+  * [net http tutorial](http://soryy.com/blog/2014/not-another-go-net-http-tutorial/)
+  * [Testing web apps in Go](http://www.markjberger.com/testing-web-apps-in-golang/)
+
+
 ### Books
   * [Go Bootcamp](http://www.golangbootcamp.com/book/) by Matt Aimonetti
   * [Introduction to Go](https://github.com/miekg/gobook) by Miek Gieben
-  * [Build web applications with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details) by Astaxie
+
 
 ### Miscellaneous 
   * [Stackoverflow GO documentation](http://stackoverflow.com/documentation/go)
@@ -27,5 +38,4 @@ Curated list of awesome [Go](https://golang.org/) resources on web (in random or
   * [Gotchas and common mistakes in GO](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
   * [Fundamentals of concurrent programming](http://www.nada.kth.se/~snilsson/concurrency/)
   * [Visualizing Concurrency in Go](https://blog.codeship.com/visualizing-concurrency-go/) (_Jun 27, 2016_)
-
 
