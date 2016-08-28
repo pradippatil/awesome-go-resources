@@ -31,6 +31,8 @@ Curated list of awesome [Go](https://golang.org/) resources on web (in random or
   * [Go Bootcamp](http://www.golangbootcamp.com/book/) by Matt Aimonetti
   * [Introduction to Go](https://github.com/miekg/gobook) by Miek Gieben
 
+### Videos
+  * [GopherVids - searchable index of videos about Go](http://gophervids.appspot.com/)
 
 ### Miscellaneous 
   * [Stackoverflow GO documentation](http://stackoverflow.com/documentation/go)
