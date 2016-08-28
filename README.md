@@ -13,6 +13,7 @@ Curated list of awesome [Go](https://golang.org/) resources on web (in random or
   * [Go client library best practices](https://medium.com/@cep21/go-client-library-best-practices-83d877d604ca#.lcuiwqais) by Jack Lindamood (_Jul 5, 2016_)
   * [How to correctly use context.Context in Go 1.7](https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39#.nilazmxh8) by Jack Lindamood (_Jul 19, 2016_)
   * [Five suggestions for setting up a Go project](http://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project)
+  * [Go naming](https://talks.golang.org/2014/names.slide#1)
 
 ### Testing
   * [5 simple tips and tricks for writing unit tests](https://medium.com/@matryer/5-simple-tips-and-tricks-for-writing-unit-tests-in-golang-619653f90742#.vk3vujyh4) by Mat Ryer (_Apr 30, 2015_)
