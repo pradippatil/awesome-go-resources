@@ -35,10 +35,10 @@ Curated list of awesome [Go](https://golang.org/) resources on web (in random or
 
 ### Miscellaneous 
   * [GopherVids - searchable index of videos about Go](http://gophervids.appspot.com/) :movie_camera:
-  * [Stackoverflow GO documentation](http://stackoverflow.com/documentation/go)
+  * [Stackoverflow Go documentation](http://stackoverflow.com/documentation/go)
   * [Less is exponentially more](https://commandcenter.blogspot.it/2012/06/less-is-exponentially-more.html) by Rob Pike (_Jun 25, 2012_)
-  * [Gotchas and common mistakes in GO](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+  * [Gotchas and common mistakes in Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
   * [Fundamentals of concurrent programming](http://www.nada.kth.se/~snilsson/concurrency/)
   * [Visualizing Concurrency in Go](https://blog.codeship.com/visualizing-concurrency-go/) (_Jun 27, 2016_)
-  * [Reproducible Builds](https://www.youtube.com/watch?v=c3dW80eO88I) by Dave Cheney (_Apr, 2015_) :movie_camera:, [Slides](https://go-talks.appspot.com/github.com/davecheney/presentations/reproducible-builds.slide#1)
+  * [Reproducible Builds/Dependency management in Go](https://www.youtube.com/watch?v=c3dW80eO88I) by Dave Cheney (_Apr, 2015_) :movie_camera:, [Slides](https://go-talks.appspot.com/github.com/davecheney/presentations/reproducible-builds.slide#1)
 
