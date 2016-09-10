@@ -42,4 +42,5 @@ Curated list of awesome [Go](https://golang.org/) resources on web (in random or
   * [Gotchas and common mistakes in GO](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
   * [Fundamentals of concurrent programming](http://www.nada.kth.se/~snilsson/concurrency/)
   * [Visualizing Concurrency in Go](https://blog.codeship.com/visualizing-concurrency-go/) (_Jun 27, 2016_)
+  * [Reproducible Builds](https://www.youtube.com/watch?v=c3dW80eO88I) by Dave Cheney (_Apr, 2015_), [Slides](https://go-talks.appspot.com/github.com/davecheney/presentations/reproducible-builds.slide#1)
 
