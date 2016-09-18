@@ -6,8 +6,13 @@ Curated list of awesome [Go](https://golang.org/) resources on web (in random or
   * [Writing, building, installing, and testing Go code](https://www.youtube.com/watch?v=XCsL89YtqCs) :movie_camera:
   * [Effective GO](https://golang.org/doc/effective_go.html)
   * [Go by example](https://gobyexample.com/)
-  * Go Walkthrough series by _Ben Johnson_
-     * [encoding package](https://medium.com/@benbjohnson/go-walkthrough-encoding-package-bc5e912232d#.o6woaytsy)
+  * Go Walkthrough of standard library by _Ben Johnson_
+     * [encoding](https://medium.com/@benbjohnson/go-walkthrough-encoding-package-bc5e912232d)
+     * [encoding/binary](https://medium.com/@benbjohnson/go-walkthrough-encoding-binary-96dc5d4abb5d)
+     * [encoding/json](https://medium.com/@benbjohnson/go-walkthrough-encoding-json-package-9681d1d37a8f)
+     * [strconv](https://medium.com/@benbjohnson/go-walkthrough-strconv-7a24632a9e73)
+     * [byts/string](https://medium.com/@benbjohnson/go-walkthrough-bytes-strings-packages-499be9f4b5bd)
+     * [io](https://medium.com/@benbjohnson/go-walkthrough-io-package-8ac5e95a9fbd)
 
 
 ### Best Practices
@@ -17,6 +22,7 @@ Curated list of awesome [Go](https://golang.org/) resources on web (in random or
   * [Five suggestions for setting up a Go project](http://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project)
   * [Go naming](https://talks.golang.org/2014/names.slide#1)
   * [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
+  * [Structuring Tests in Go](https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c#.odgcilim9)
 
 ### Testing
   * [5 simple tips and tricks for writing unit tests](https://medium.com/@matryer/5-simple-tips-and-tricks-for-writing-unit-tests-in-golang-619653f90742#.vk3vujyh4) by Mat Ryer (_Apr 30, 2015_)
