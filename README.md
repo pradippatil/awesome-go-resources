@@ -6,6 +6,8 @@ Curated list of awesome [Go](https://golang.org/) resources on web (in random or
   * [Writing, building, installing, and testing Go code](https://www.youtube.com/watch?v=XCsL89YtqCs) :movie_camera:
   * [Effective GO](https://golang.org/doc/effective_go.html)
   * [Go by example](https://gobyexample.com/)
+  * Go Walkthrough series by _Ben Johnson_
+     * [encoding package](https://medium.com/@benbjohnson/go-walkthrough-encoding-package-bc5e912232d#.o6woaytsy)
 
 
 ### Best Practices
@@ -14,6 +16,7 @@ Curated list of awesome [Go](https://golang.org/) resources on web (in random or
   * [How to correctly use context.Context in Go 1.7](https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39#.nilazmxh8) by Jack Lindamood (_Jul 19, 2016_)
   * [Five suggestions for setting up a Go project](http://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project)
   * [Go naming](https://talks.golang.org/2014/names.slide#1)
+  * [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 
 ### Testing
   * [5 simple tips and tricks for writing unit tests](https://medium.com/@matryer/5-simple-tips-and-tricks-for-writing-unit-tests-in-golang-619653f90742#.vk3vujyh4) by Mat Ryer (_Apr 30, 2015_)
