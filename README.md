@@ -39,6 +39,7 @@ Curated list of awesome [Go](https://golang.org/) resources on web (in random or
 
 
 ### Books
+  * [Network programming with Go](https://jan.newmarch.name/go/)
   * [Go Bootcamp](http://www.golangbootcamp.com/book/) by Matt Aimonetti
   * [Introduction to Go](https://github.com/miekg/gobook) by Miek Gieben
 
