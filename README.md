@@ -52,3 +52,4 @@ Curated list of awesome [Go](https://golang.org/) resources on web (in random or
   * [Visualizing Concurrency in Go](https://blog.codeship.com/visualizing-concurrency-go/) (_Jun 27, 2016_)
   * [Reproducible Builds/Dependency management in Go](https://www.youtube.com/watch?v=c3dW80eO88I) by Dave Cheney (_Apr, 2015_) :movie_camera:, [Slides](https://go-talks.appspot.com/github.com/davecheney/presentations/reproducible-builds.slide#1)
   * [How do Goroutines work](http://blog.nindalf.com/how-goroutines-work/)
+  * [Benign data races: What could possibly go wrong?](https://software.intel.com/en-us/blogs/2013/01/06/benign-data-races-what-could-possibly-go-wrong)
